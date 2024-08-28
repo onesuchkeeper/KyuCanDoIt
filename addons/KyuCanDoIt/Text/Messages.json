@@ -1,0 +1,55 @@
+{
+	"Kyu": {
+		"tts" : 1,
+		"qoutes" :[
+			{
+				"text" : "Let's fuckin' date this shit up!",
+				"sound" : "Kyu_dateThisShitUp.wav"
+			},
+			{
+				"text" : "Good luck, I know I can be a real bitch to win over.",
+				"sound" : "Kyu_goodLuck"
+			},
+			{
+				"text" : "Good work! Bring it in for today.",
+				"sound" : "Kyu_goodWork.wav"
+			},
+			{
+				"text" : "I don't know much about this game. Is it anything like sex? I know a lot about that!",
+				"sound" : "Kyu_iDontKnowMuchAboutThisGame.wav"
+			},
+			{
+				"text" : "Oh heeeeyy, look who decided to show up.",
+				"sound" : "Kyu_lookWhoDecided.wav"
+			},
+			{
+				"text" : "Don't worry, nobody can see me!",
+				"sound" : "Kyu_nobodyCanSeeMe.wav"
+			},
+			{
+				"text" : "The objective is to win. We're clear on that, right?",
+				"sound" : "Kyu_objectiveIsToWin.wav"
+			},
+			{
+				"text" : "Alright, saddle up. Lets do this shit!",
+				"sound" : "Kyu_saddleUp.wav"
+			},
+			{
+				"text" : "Come on! Seduce me with your sexy puzzle skills!",
+				"sound" : "Kyu_sexyPuzzleSkills.wav"
+			},
+			{
+				"text" : "Could you do me a huge favor and show up even later next time?",
+				"sound" : "Kyu_showUpLater.wav"
+			},
+			{
+				"text" : "Really? I know I've taught you better than that.",
+				"sound" : "Kyu_taughtYouBetter.wav"
+			},
+			{
+				"text" : "Alright look, if you want this gig you gotta listen to directions.",
+				"sound" : "Kyu_wantThisGig.wav"
+			}
+		]
+	}
+}
