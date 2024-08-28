@@ -53,7 +53,7 @@ func _process(delta:float)->void:
 	
 	# Pick qoute
 	var type:String = messages.keys().pick_random()
-	var qoute:Dictionary = messages[type]["qoutes"][0] # messages[type]["qoutes"].pick_random()
+	var qoute:Dictionary = messages[type]["qoutes"].pick_random()
 	label.text = qoute["text"]
 	
 	# Show overlay
