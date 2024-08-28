@@ -1,8 +1,8 @@
 @tool
 extends EditorPlugin
 
-@export var min_interval_minutes:float = 0.1
-@export var max_interval_minutes:float = 0.1
+@export var min_interval_minutes:float = 15
+@export var max_interval_minutes:float = 30
 @export var min_duration:float = 5
 @export var post_audio_duration:float = 2
 @export var transition_seconds:float = 1
