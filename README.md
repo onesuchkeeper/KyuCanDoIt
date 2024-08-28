@@ -4,8 +4,8 @@ Huniepop girls motivate you every 15-30 minutes in Godot 4.
 
 ## Screenshots
 
-<img src="https://github.com/Joy-less/YouCanDoIt/blob/main/Assets/YouCanDoIt%20Screenshot%201.png?raw=true" width=600 />
-<img src="https://github.com/Joy-less/YouCanDoIt/blob/main/Assets/YouCanDoIt%20Screenshot%202.png?raw=true" width=600 />
+<img src="https://github.com/onesuchkeeper/KyuCanDoIt/blob/main/Assets/YouCanDoIt%20Screenshot%201.png?raw=true" width=600 />
+<img src="https://github.com/onesuchkeeper/KyuCanDoIt/blob/main/Assets/YouCanDoIt%20Screenshot%202.png?raw=true" width=600 />
 
 ## Features
 
